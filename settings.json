@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ZeinthSmp.aternos.me",
-    "port": 13648,
+    "ip": "zeinthSmp.aternos.me",
+    "port": 35591,
     "version": "1.20.1",
     "try-creative": false
   },
