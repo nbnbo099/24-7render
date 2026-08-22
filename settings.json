@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "zeinthSmp.aternos.me",
+    "ip": "zeinthsmp.aternos.me",
     "port": 35591,
     "version": "1.20.1",
     "try-creative": false
